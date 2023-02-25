@@ -1,11 +1,7 @@
-Nama: Fatahillah
-Stack: Backend Developer
-Hobi: Olahraga dan Musik
-
 - 👋 Hi, I’m @fatah-illah
 - 👀 I’m interested in the Back-End Developer
-- 🌱 I’m currently learning Web Programming, especially Node.js
-- 💞️ I’m looking to collaborate on Javascript, CRUD, and MERN
+- 🌱 My hobbies are Sports and Musics
+- 💞️ I’m currently learning Web Programming, especially Node.js
 - 📫 How to reach me? fatahillahera18@gmail.com
 
 <!---
